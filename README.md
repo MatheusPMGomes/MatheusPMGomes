@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pessoa-de-melo-gomes-44554a205/)
 
 
-![MatheusPMGomes GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPMGomes&show_icons=true&)<br><br>
+![MatheusPMGomes GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPMGomes&show_icons=true&theme=dark)<br><br>
 
 ### Principais tecnologias que utilizo 💻
 <hr>
