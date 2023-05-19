@@ -4,7 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pessoa-de-melo-gomes-44554a205/)
 
-![MatheusPMGomes GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPMGomes&show_icons=true&theme=dark)<br><br>
+![MatheusPMGomes GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPMGomes&show_icons=true&theme=transparent)<br><br>
 
 ### Principais tecnologias que utilizo 💻
 
@@ -20,4 +20,4 @@
     <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>    
 </div><br>
 
-[![MatheusPMGomes Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPMGomes&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![MatheusPMGomes Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPMGomes&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
